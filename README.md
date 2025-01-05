@@ -7,3 +7,6 @@ The Digital Logic course has provided the understanding of how digital circuits 
 
 # LABS
 [Click here for labs](Lab)
+The lab exercise make a deeper understanding of basic concepts when trying to build logic circuits based on theoretical knowledge learned suring lecturals. Also it improves the circuit designing skills and circuit analysis skills during the solving process. 
+
+ 
